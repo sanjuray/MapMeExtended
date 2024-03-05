@@ -16,7 +16,8 @@ is clicked. Using these PolylineOptions we can tweak with the way they are shown
 overlapping ones are present, adding color to the line/ stroke and changing the stroke width and pattern and others.
 Similarly, PolygonOptions and CircleOptions can be tweaked.
 
-      ImageLeft showing the marker4 snippet and ImageRight showing marker1 snippet when clicked
+      ImageLeft showing the marker4 snippet and ImageRight showing marker1 snippet when clicked 
+      yellow line(shown over black line coz of higher zIndex) -> polyline and black line with blue fill color -> polygon
 <image src="https://github.com/sanjuray/MapMeExtended/assets/94555333/cc6963a6-f3c9-42b3-a94f-8591469fe17e" width=400 height=500/>
   <image src="https://github.com/sanjuray/MapMeExtended/assets/94555333/abc7a1e4-f95c-49c5-a4a3-021c057e9266" width=400 height=500/>
       
